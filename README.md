@@ -2,7 +2,7 @@
 
 Welcome to **Flappy Bila** project! This is a Unity-based recreation of the classic Flappy Bird game.
 
-## 🎮 Features
+## Features
 
 ### 🕹️ Gameplay
 - **Playable Characters:** Choose from 3 unique characters to suit your style.
@@ -17,6 +17,16 @@ Welcome to **Flappy Bila** project! This is a Unity-based recreation of the clas
 ### ⚡ Additional Features
 - Accurate collision detection.
 - Smooth animations and fluid controls.
+
+### 🎮 Screenshots
+<div style="display: flex; justify-content: space-between;">
+  <img src="example/photo1.png" width="45%"  height="250"/>
+  <img src="example/photo2.png" width="45%" height="250"/>
+</div>
+<div style="display: flex; justify-content: space-between;">
+  <img src="example/photo3.png" width="45%"  height="250"/>
+  <img src="example/photo4.png" width="45%"  height="250"/>
+</div>
 
 ## 🛠️ Installation
 
