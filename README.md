@@ -24,8 +24,8 @@ Welcome to **Flappy Bila** project! This is a Unity-based recreation of the clas
   <img src="example/photo2.png" width="45%" height="250"/>
 </div>
 <div style="display: flex; justify-content: space-between;">
-  <img src="example/photo3.png" width="45%"  height="250"/>
   <img src="example/photo4.png" width="45%"  height="250"/>
+  <img src="example/photo5.png" width="45%"  height="250"/>
 </div>
 
 ## 🛠️ Installation
