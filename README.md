@@ -2,8 +2,6 @@
 
 Welcome to **Flappy Bila** project! This is a Unity-based recreation of the classic Flappy Bird game.
 
----
-
 ## 🎮 Features
 
 ### 🕹️ Gameplay
@@ -20,14 +18,10 @@ Welcome to **Flappy Bila** project! This is a Unity-based recreation of the clas
 - Accurate collision detection.
 - Smooth animations and fluid controls.
 
----
-
 ## 🛠️ Installation
 
 1. Download the archive.
 2. Run the .EXE file.
-
----
 
 ## 🕹️ How to Play
 
@@ -36,18 +30,10 @@ Welcome to **Flappy Bila** project! This is a Unity-based recreation of the clas
 3. **Avoid Obstacles:** Navigate through the pipes without colliding.
 4. **Score Points:** Pass through pipes to increase your score.
 
----
-
 ## 🛠️ Development Details
 
 - **Unity Version:** 2021.3 LTS
 - **Language:** C#
 
-
-## 📧 Contact
-
-For questions or feedback, reach out at **your-email@example.com** or open an issue in this repository.
-
----
 
 Happy Flapping! 🐦
